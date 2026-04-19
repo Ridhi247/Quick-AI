@@ -36,7 +36,7 @@ const Footer = () => {
             
         </div>
         <p className="pt-4 text-center text-xs md:text-sm pb-5">
-                Copyright 2025 © <a href="https://github.com/khushikumari0202">khushikumari0202</a>. All Right Reserved.
+                Copyright 2025 © <a href="https://github.com/Ridhi247">ridhibhatia</a>. All Right Reserved.
         </p>
     </footer>
   )
